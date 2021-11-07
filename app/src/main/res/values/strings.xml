@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SeeYourPopularity</string>
+
+    <string name="facebook_app_id">931665947786062</string>
+    <string name="fb_login_protocol_scheme">fb931665947786062</string>
+
+
+</resources>
